@@ -7,9 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BrunoHWM">
-    <img src="https://img.shields.io/badge/GitHub-BrunoHWM-181717?style=for-the-badge&logo=github" />
-  </a>
   <a href="mailto:bhwm88@gmail.com">
     <img src="https://img.shields.io/badge/Email-bhwm88%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
