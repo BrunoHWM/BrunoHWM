@@ -220,8 +220,7 @@ Busco desenvolver minhas habilidades tanto no **Front-end** quanto no **Back-end
 # 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunoHWM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHWM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHWM&layout=compact&theme=tokyonight&hide_border=true" height="240"/>
 </p>
 
 ---
