@@ -57,7 +57,7 @@ O projeto possui uma interface inspirada no universo Pokémon e foi desenvolvido
 
 `HTML` `CSS` `JavaScript` `PokeAPI` `Vercel`
 
-🔗 **[Ver meus repositórios](https://github.com/BrunoHWM?tab=repositories)**
+🔗 **[Ver projeto no GitHub](https://github.com/BrunoHWM?tab=repositories)**
 
 ---
 
@@ -71,7 +71,7 @@ O projeto foi pensado para facilitar a inclusão de novas fotos diretamente pelo
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
-🔗 **[Ver meus repositórios](https://github.com/BrunoHWM?tab=repositories)**
+🔗 **[Ver projeto no GitHub](https://github.com/BrunoHWM?tab=repositories)**
 
 ---
 
@@ -92,7 +92,7 @@ O projeto foi desenvolvido com foco em **Programação Orientada a Objetos**, ap
 
 `TypeScript` `Node.js` `POO`
 
-🔗 **[Acessar projeto](https://github.com/BrunoHWM/UC4-Cooperativa-)**
+🔗 **[Ver projeto no GitHub](https://github.com/BrunoHWM/UC4-Cooperativa-)**
 
 ---
 
@@ -116,7 +116,7 @@ O projeto trabalha com:
 
 `PostgreSQL` `SQL`
 
-🔗 **[Ver meus repositórios](https://github.com/BrunoHWM?tab=repositories)**
+🔗 **[Ver projeto no GitHub](https://github.com/BrunoHWM?tab=repositories)**
 
 ---
 
