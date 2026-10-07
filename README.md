@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=180&section=header&text=Bruno%20 H&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack;Estudante+de+Sistemas+de+Informacao;Construindo+projetos+com+codigo;Desenvolvimento+Web+%7C+TypeScript+%7C+SQL;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
   </a>
