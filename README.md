@@ -1,18 +1,4 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack;Estudante+de+Sistemas+de+Informacao;Apaixonado+por+tecnologia;Construindo+ideias+atraves+do+codigo;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:bhwm88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhwm88%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=180&section=header&text=Bruno%20HWM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
