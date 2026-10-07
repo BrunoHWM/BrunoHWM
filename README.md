@@ -233,11 +233,6 @@ Busco desenvolver minhas habilidades tanto no **Front-end** quanto no **Back-end
     <img src="https://img.shields.io/badge/Gmail-bhwm88%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/BrunoHWM">
-    <img src="https://img.shields.io/badge/GitHub-BrunoHWM-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 <p align="center">
