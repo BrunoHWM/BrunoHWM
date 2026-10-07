@@ -226,7 +226,6 @@ Busco desenvolver minhas habilidades tanto no **Front-end** quanto no **Back-end
     height="200"
   />
 </p>
----
 
 # 📫 Contato
 
