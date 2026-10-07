@@ -12,34 +12,136 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=180&section=header&text=Bruno%20HWM&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-Sou estudante de **Sistemas de Informação** e formado em **Análise e Desenvolvimento de Sistemas — Full Stack**.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Desenvolvedor+Full+Stack;Estudante+de+Sistemas+de+Informacao;Construindo+projetos+com+codigo;Desenvolvimento+Web+%7C+TypeScript+%7C+SQL;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+  </a>
+</p>
 
-Tenho interesse em desenvolvimento de software, programação, banco de dados e desenvolvimento web. Gosto de transformar ideias em projetos e utilizar a programação para resolver problemas de forma organizada e eficiente.
-
-Atualmente, continuo aprimorando meus conhecimentos através de projetos acadêmicos e pessoais, buscando evoluir constantemente como desenvolvedor.
-
----
-
-## 🎓 Formação
-
-### 🎓 Análise e Desenvolvimento de Sistemas — Full Stack
-
-**SENAC**  
-✅ Formação concluída
-
----
-
-### 💻 Sistemas de Informação
-
-**Universidade Feevale**  
-📚 2º semestre  
-🔄 Em andamento
+<p align="center">
+  <a href="mailto:bhwm88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhwm88%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/BrunoHWM">
+    <img src="https://img.shields.io/badge/GitHub-BrunoHWM-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+# 👨‍💻 Sobre mim
+
+Sou estudante de **Sistemas de Informação** e formado em **Análise e Desenvolvimento de Sistemas — Full Stack pelo SENAC**.
+
+Tenho interesse em **desenvolvimento web, programação, banco de dados e engenharia de software**. Gosto de transformar ideias em projetos funcionais, buscando escrever código organizado, responsivo e fácil de manter.
+
+Atualmente estou aprimorando meus conhecimentos em **TypeScript, JavaScript, Node.js, PostgreSQL, SQL e Programação Orientada a Objetos**, desenvolvendo projetos acadêmicos e pessoais.
+
+---
+
+# 🚀 Projetos em destaque
+
+## 🌌 NASA APOD
+
+Aplicação web que utiliza a **NASA API** para apresentar diariamente uma imagem astronômica, acompanhada das informações e explicação fornecidas pela NASA.
+
+O projeto foi desenvolvido com foco em uma interface **responsiva, moderna e adaptada para diferentes dispositivos**.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript` `NASA API` `Vercel`
+
+🔗 **[Ver projeto no GitHub](https://github.com/BrunoHWM/NASA-API)**
+
+---
+
+## ⚡ PokéDex Daily
+
+Aplicação web inspirada em uma Pokédex que utiliza a **PokeAPI** para apresentar Pokémon de forma dinâmica.
+
+A cada acesso, o projeto pode apresentar um Pokémon diferente, mostrando informações como:
+
+* Nome
+* Imagem
+* Tipos
+* Status
+* Ataques
+* Curiosidades
+
+O projeto possui uma interface inspirada no universo Pokémon e foi desenvolvido pensando em **responsividade e experiência em diferentes dispositivos**.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript` `PokeAPI` `Vercel`
+
+🔗 **[Ver meus repositórios](https://github.com/BrunoHWM?tab=repositories)**
+
+---
+
+## 👶 Galeria Vicente
+
+Galeria web criada para organizar e apresentar fotos do **Vicente** em uma interface com estética infantil e responsiva.
+
+O projeto foi pensado para facilitar a inclusão de novas fotos diretamente pelo VS Code, além de possuir uma área protegida por senha.
+
+**Tecnologias:**
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+🔗 **[Ver meus repositórios](https://github.com/BrunoHWM?tab=repositories)**
+
+---
+
+## 🌱 Cooperativa
+
+Sistema desenvolvido em **TypeScript** para gerenciamento de uma cooperativa de agricultura orgânica.
+
+O projeto foi desenvolvido com foco em **Programação Orientada a Objetos**, aplicando conceitos como:
+
+* Classes e objetos
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Abstração
+* Interfaces
+
+**Tecnologias:**
+
+`TypeScript` `Node.js` `POO`
+
+🔗 **[Acessar projeto](https://github.com/BrunoHWM/UC4-Cooperativa-)**
+
+---
+
+## 🎮 Retro Games Database
+
+Projeto acadêmico desenvolvido utilizando **PostgreSQL e SQL**, simulando um banco de dados para gerenciamento de campeonatos de jogos retrô.
+
+O projeto trabalha com:
+
+* Modelagem de banco de dados
+* Relacionamentos
+* Chaves primárias
+* Chaves estrangeiras
+* Consultas SQL
+* JOINs
+* Agregações
+* Rankings
+* Classificação de jogadores
+
+**Tecnologias:**
+
+`PostgreSQL` `SQL`
+
+🔗 **[Ver meus repositórios](https://github.com/BrunoHWM?tab=repositories)**
+
+---
+
+# 🛠️ Tecnologias
 
 ### 💻 Desenvolvimento
 
@@ -56,129 +158,96 @@ Atualmente, continuo aprimorando meus conhecimentos através de projetos acadêm
 ### 🔧 Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
-- 🔷 TypeScript
-- 🟨 JavaScript
-- 🟢 Node.js
-- 🐘 PostgreSQL
-- 🧩 Programação Orientada a Objetos
-- 🌐 Desenvolvimento Web
-- 🏗️ Estrutura e organização de projetos
-- 🔄 Git e GitHub
+* 🔷 TypeScript
+* 🟨 JavaScript
+* 🟢 Node.js
+* 🐘 PostgreSQL
+* 🧩 Programação Orientada a Objetos
+* 🌐 Desenvolvimento Web
+* 🏗️ Arquitetura e organização de projetos
+* 🔄 Git e GitHub
+* ☁️ Deploy e aplicações web
 
 ---
 
-## 🧠 Conhecimentos
+# 🧠 Conhecimentos
 
-### Programação Orientada a Objetos
+### Programação
 
-- Classes e objetos
-- Encapsulamento
-- Herança
-- Polimorfismo
-- Abstração
-- Interfaces
+* Programação Orientada a Objetos
+* Classes e objetos
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Abstração
+* Interfaces
 
 ### Banco de Dados
 
-- SQL
-- PostgreSQL
-- MySQL
-- Relacionamentos
-- Chaves primárias e estrangeiras
-- Consultas SQL
-- Modelagem de dados
+* SQL
+* PostgreSQL
+* MySQL
+* Modelagem de dados
+* Relacionamentos
+* Chaves primárias e estrangeiras
+* JOINs
+* Consultas e agregações
 
-### Desenvolvimento
+### Desenvolvimento Web
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Node.js
-
----
-
-## 🚀 Projetos em destaque
-
-### 🌱 Cooperativa
-
-Sistema desenvolvido em **TypeScript** para gerenciamento de uma cooperativa de agricultura orgânica.
-
-O projeto aplica conceitos de **Programação Orientada a Objetos**, incluindo classes, interfaces, herança, encapsulamento e polimorfismo.
-
-**Tecnologias:**
-
-`TypeScript` `Node.js` `POO`
-
-🔗 **[Acessar projeto](https://github.com/BrunoHWM/UC4-Cooperativa-)**
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* APIs
+* Design responsivo
+* Integração com APIs externas
+* Deploy na Vercel
 
 ---
 
-### 🎮 Retro Games Database
+# 🎓 Formação
 
-Projeto acadêmico desenvolvido utilizando **PostgreSQL e SQL**, com foco na criação e gerenciamento de um banco de dados para campeonatos de jogos retrô.
+### 🎓 Análise e Desenvolvimento de Sistemas — Full Stack
 
-O projeto trabalha com:
+**SENAC**
 
-- Tabelas
-- Relacionamentos
-- Chaves estrangeiras
-- Consultas SQL
-- Agregações
-- Rankings
-- Classificação de jogadores
+✅ Formação concluída
 
-**Tecnologias:**
+### 💻 Sistemas de Informação
 
-`PostgreSQL` `SQL`
+**Universidade Feevale**
 
-🔗 **[Ver meus repositórios](https://github.com/BrunoHWM?tab=repositories)**
+📚 2º semestre
+🔄 Em andamento
 
 ---
 
-### 🚀 Projetos acadêmicos
+# 🎯 Objetivo
 
-Durante minha formação venho desenvolvendo diversos projetos para colocar em prática conceitos de:
+Meu objetivo é continuar evoluindo como desenvolvedor, adquirindo experiência prática e construindo projetos cada vez mais completos.
 
-- Programação
-- Banco de dados
-- Desenvolvimento web
-- TypeScript
-- JavaScript
-- Programação Orientada a Objetos
-
-🔗 **[Ver todos os projetos](https://github.com/BrunoHWM?tab=repositories)**
+Busco desenvolver minhas habilidades tanto no **Front-end** quanto no **Back-end**, avançando cada vez mais na área de **Desenvolvimento Full Stack**.
 
 ---
 
-## 💻 Linguagens
+# 📊 GitHub
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunoHWM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoHWM&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🎯 Objetivo
-
-Meu objetivo é continuar evoluindo na área de desenvolvimento de software, adquirindo experiência prática e construindo projetos cada vez mais completos.
-
-Busco aprimorar minhas habilidades tanto no **Back-end** quanto no **Front-end**, caminhando cada vez mais para o desenvolvimento **Full Stack**.
-
----
-
-## 📫 Contato
+# 📫 Contato
 
 <p align="left">
   <a href="mailto:bhwm88@gmail.com">
@@ -186,14 +255,14 @@ Busco aprimorar minhas habilidades tanto no **Back-end** quanto no **Front-end**
   </a>
 
   <a href="https://github.com/BrunoHWM">
-    <img src="https://img.shields.io/badge/GitHub-BrunoHWM-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-BrunoHWM-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>💡 Sempre aprendendo. Sempre construindo. Sempre evoluindo.</i>
+  <i>💡 Transformando ideias em projetos através do código.</i>
 </p>
 
 <p align="center">
