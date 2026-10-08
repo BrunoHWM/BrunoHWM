@@ -142,20 +142,6 @@ O projeto trabalha com:
 
 ---
 
-# 📚 Atualmente estudando
-
-* 🔷 TypeScript
-* 🟨 JavaScript
-* 🟢 Node.js
-* 🐘 PostgreSQL
-* 🧩 Programação Orientada a Objetos
-* 🌐 Desenvolvimento Web
-* 🏗️ Arquitetura e organização de projetos
-* 🔄 Git e GitHub
-* ☁️ Deploy e aplicações web
-
----
-
 # 🧠 Conhecimentos
 
 ### Programação
