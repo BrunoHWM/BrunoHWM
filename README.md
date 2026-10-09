@@ -61,20 +61,6 @@ O projeto possui uma interface inspirada no universo Pokémon e foi desenvolvido
 
 ---
 
-## 👶 Galeria Vicente
-
-Galeria web criada para organizar e apresentar fotos do **Vicente** em uma interface com estética infantil e responsiva.
-
-O projeto foi pensado para facilitar a inclusão de novas fotos diretamente pelo VS Code, além de possuir uma área protegida por senha.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript` `Vercel`
-
-🔗 **[Ver projeto no GitHub](https://github.com/BrunoHWM?tab=repositories)**
-
----
-
 ## 🌱 Cooperativa
 
 Sistema desenvolvido em **TypeScript** para gerenciamento de uma cooperativa de agricultura orgânica.
